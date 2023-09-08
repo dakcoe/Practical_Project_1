@@ -3,6 +3,14 @@ public class Word {
     private int level;
     private String word;
     private String meaning;
+
+    Word(){}
+    Word(int id, int level, String word, String meaning){
+        this.id=id;
+        this.level=level;
+        this.word=word;
+        this.meaning=meaning;
+    }
     public int getId(){
         return id;
     }

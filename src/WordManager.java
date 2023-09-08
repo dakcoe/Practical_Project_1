@@ -20,7 +20,22 @@ public class WordManager {
     public void start() {
         while (true) {
             int menu = selectMenu();
-            System.out.println(menu);
+            if(menu==0) break;
+            if(menu==1){
+                //all-list
+            } else if (menu==2) {
+                //level-list
+            } else if (menu==3) {
+                //search
+            } else if (menu==4) {
+                //add-word
+            } else if (menu==5) {
+                //change
+            } else if (menu==6) {
+                //remove
+            } else if (menu==7) {
+                //save
+            }
         }
     }
 

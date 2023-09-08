@@ -1,5 +1,6 @@
-public class ICRUD {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
-    }
+public interface ICRUD {
+    public Object add();
+    public int update(object obj);
+    public int delete(object obj);
+    public void selectOne(int id);
 }

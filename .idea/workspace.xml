@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86539c34-a650-4f59-bff7-26e4f3e61c39" name="Changes" comment="writing word">
-      <change beforePath="$PROJECT_DIR$/src/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ICRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ICRUD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <workItem from="1693968610596" duration="2252000" />
       <workItem from="1693998525101" duration="1217000" />
       <workItem from="1694137511700" duration="1696000" />
-      <workItem from="1694159243836" duration="1217000" />
+      <workItem from="1694159243836" duration="1399000" />
     </task>
     <task id="LOCAL-00001" summary="writing word">
       <option name="closed" value="true" />
@@ -101,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694160435936</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="writing word">
+      <option name="closed" value="true" />
+      <created>1694160469623</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694160469623</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

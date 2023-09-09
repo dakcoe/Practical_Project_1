@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86539c34-a650-4f59-bff7-26e4f3e61c39" name="Changes" comment="TEST: commit test">
+    <list default="true" id="86539c34-a650-4f59-bff7-26e4f3e61c39" name="Changes" comment="TEST: final commit test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordCRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +25,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -78,6 +79,7 @@
       <workItem from="1693998525101" duration="1217000" />
       <workItem from="1694137511700" duration="1696000" />
       <workItem from="1694159243836" duration="4098000" />
+      <workItem from="1694244298749" duration="2559000" />
     </task>
     <task id="LOCAL-00001" summary="writing word">
       <option name="closed" value="true" />
@@ -135,17 +137,46 @@
       <option name="project" value="LOCAL" />
       <updated>1694162134105</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="TEST: commit test">
+      <option name="closed" value="true" />
+      <created>1694244332012</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694244332012</updated>
+    </task>
+    <task id="LOCAL-00009" summary="TEST: final commit test">
+      <option name="closed" value="true" />
+      <created>1694244524058</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694244524058</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="writing word" />
     <MESSAGE value="writing ICRUD" />
     <MESSAGE value="writing ICRUD, WordManager" />
     <MESSAGE value="writing WordManager" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing WordManager" />
+    <MESSAGE value="TEST: commit test" />
+    <MESSAGE value="TEST: final commit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="TEST: final commit test" />
   </component>
 </project>

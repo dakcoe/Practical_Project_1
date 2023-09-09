@@ -35,7 +35,7 @@ public class WordManager {
                 //search
             } else if (menu==4) {
                 //add-word
-                WordCRUD.addWord();
+                wordCRUD.addWord();
             } else if (menu==5) {
                 //change
             } else if (menu==6) {

@@ -88,3 +88,8 @@ github와 연동하여 지금까지 작성하였던 코드를 여러번 commit, 
 10. release : 버전 릴리즈
 
 이후 md(마크다운) 파일인 Readme에 대하여 검색해보고, 마크다운 문법에 대하여 알게 되었음.
++추가적으로 README.md의 URL을 찾는 과정에서
+
+<https://docs.github.com/ko/repositories/working-with-files/using-files/getting-permanent-links-to-files>
+
+위 링크를 통해 해당 URL이 구성되어있는 순서, 기능에 대하여 조금 알게 됨

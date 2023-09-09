@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class WordCRUD implements ICRUD{
-    ArrayList<Word> list; //ming
+    ArrayList<Word> list; //ming ming
     Scanner s;
     WordCRUD(Scanner s){
         list =  new ArrayList<>();

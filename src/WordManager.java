@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
 public class WordManager {
-    Scanner s = new Scanner(System.in);
-    WordCRUD wordCRUD;
+    static Scanner s = new Scanner(System.in);
+    static WordCRUD wordCRUD;
 
     WordManager(){
         wordCRUD = new WordCRUD(s);
     }
-    public int selectMenu(){
+    public static int selectMenu(){
         System.out.print("*** 영단어 마스터 ***\n"
                         +"******************\n"
                         +"1. 모든 단어 보기\n"
@@ -22,12 +22,13 @@ public class WordManager {
                         +"=> 원하는 메뉴는? ");
         return s.nextInt();
     }
-    public void start() {
+    public static void start() {
         while (true) {
             int menu = selectMenu();
             if(menu==0) break;
             if(menu==1){
                 //all-list
+                wordCRUD.listAll();
             } else if (menu==2) {
                 //level-list
             } else if (menu==3) {

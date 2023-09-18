@@ -23,6 +23,8 @@ public class WordManager {
         return s.nextInt();
     }
     public static void start() {
+
+        wordCRUD.loadFile();
         while (true) {
             int menu = selectMenu();
             if(menu==0) break;
@@ -44,7 +46,6 @@ public class WordManager {
                 wordCRUD.deleteItem();
             } else if (menu==7) {
                 //save
-
             }
         }
     }

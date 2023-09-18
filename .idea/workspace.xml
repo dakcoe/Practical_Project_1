@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86539c34-a650-4f59-bff7-26e4f3e61c39" name="Changes" comment="feat:data update, delete">
+    <list default="true" id="86539c34-a650-4f59-bff7-26e4f3e61c39" name="Changes" comment="feat:load data">
+      <change afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordManager.java" afterDir="false" />
     </list>
@@ -68,6 +70,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -96,7 +103,7 @@
       <workItem from="1694159243836" duration="4098000" />
       <workItem from="1694244298749" duration="5629000" />
       <workItem from="1694267502577" duration="2000" />
-      <workItem from="1694480115726" duration="12289000" />
+      <workItem from="1694480115726" duration="14909000" />
     </task>
     <task id="LOCAL-00001" summary="writing word">
       <option name="closed" value="true" />
@@ -226,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695038236559</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="feat:load data">
+      <option name="closed" value="true" />
+      <created>1695043881499</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1695043881499</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,6 +268,7 @@
     <MESSAGE value="feat: add word, show all-word" />
     <MESSAGE value="write Readme" />
     <MESSAGE value="feat:data update, delete" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:data update, delete" />
+    <MESSAGE value="feat:load data" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:load data" />
   </component>
 </project>

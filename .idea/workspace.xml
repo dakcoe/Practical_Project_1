@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86539c34-a650-4f59-bff7-26e4f3e61c39" name="Changes" comment="feat:load data">
-      <change afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
+    <list default="true" id="86539c34-a650-4f59-bff7-26e4f3e61c39" name="Changes" comment="refactor:removed unused code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordCRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +100,7 @@
       <workItem from="1694159243836" duration="4098000" />
       <workItem from="1694244298749" duration="5629000" />
       <workItem from="1694267502577" duration="2000" />
-      <workItem from="1694480115726" duration="14909000" />
+      <workItem from="1694480115726" duration="15846000" />
     </task>
     <task id="LOCAL-00001" summary="writing word">
       <option name="closed" value="true" />
@@ -241,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695043881499</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="feat:searchLevel">
+      <option name="closed" value="true" />
+      <created>1695046571202</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1695046571202</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +274,8 @@
     <MESSAGE value="write Readme" />
     <MESSAGE value="feat:data update, delete" />
     <MESSAGE value="feat:load data" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:load data" />
+    <MESSAGE value="feat:searchLevel" />
+    <MESSAGE value="refactor:removed unused code" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor:removed unused code" />
   </component>
 </project>

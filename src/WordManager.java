@@ -35,13 +35,16 @@ public class WordManager {
                 //search
             } else if (menu==4) {
                 //add-word
-                wordCRUD.addWord();
+                wordCRUD.addItem();
             } else if (menu==5) {
                 //change
+                wordCRUD.updateItem();
             } else if (menu==6) {
                 //remove
+                wordCRUD.deleteItem();
             } else if (menu==7) {
                 //save
+
             }
         }
     }

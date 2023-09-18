@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86539c34-a650-4f59-bff7-26e4f3e61c39" name="Changes" comment="feat: add word, show all-word">
+    <list default="true" id="86539c34-a650-4f59-bff7-26e4f3e61c39" name="Changes" comment="write Readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordCRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +95,8 @@
       <workItem from="1694137511700" duration="1696000" />
       <workItem from="1694159243836" duration="4098000" />
       <workItem from="1694244298749" duration="5629000" />
+      <workItem from="1694267502577" duration="2000" />
+      <workItem from="1694480115726" duration="11331000" />
     </task>
     <task id="LOCAL-00001" summary="writing word">
       <option name="closed" value="true" />
@@ -199,7 +202,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694254876332</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="feat: add word, show all-word">
+      <option name="closed" value="true" />
+      <created>1694266736128</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1694266736128</updated>
+    </task>
+    <task id="LOCAL-00015" summary="write Readme">
+      <option name="closed" value="true" />
+      <created>1694266798864</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1694266798864</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +243,7 @@
     <MESSAGE value="TEST: commit test" />
     <MESSAGE value="TEST: final commit test" />
     <MESSAGE value="feat: add word, show all-word" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add word, show all-word" />
+    <MESSAGE value="write Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="write Readme" />
   </component>
 </project>

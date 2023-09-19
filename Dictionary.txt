@@ -1,2 +1,4 @@
-3|superintendent|관리자, 감독관
-1|electric|전기의, 전기를 생산하는
+1| apple|사과
+1| electric|전기
+2| specific|특정한, 구체적인
+2| purpose|목적, 용도
